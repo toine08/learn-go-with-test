@@ -1,4 +1,4 @@
-module hello
+module toto
 
 go 1.20
 
